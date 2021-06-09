@@ -1,0 +1,10 @@
+## Directorios
+/.gradle
+/.idea
+/.vcode
+/build
+/out
+
+
+## Ficheros
+*.class
